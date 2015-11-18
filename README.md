@@ -1,5 +1,4 @@
-# Jekyll Now
 ## Credits
-- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
+- [JekyllNow](https://github.com/barryclark/jekyll-now) - Thanks to its creators, contributors and maintainers.
 
 
