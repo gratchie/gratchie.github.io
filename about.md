@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-http://github.com/gratchie
+contact me at [Github](http://github.com/gratchie)
 
