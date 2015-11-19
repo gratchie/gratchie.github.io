@@ -12,7 +12,7 @@ I work at a large visual effects studio in Los Angeles. I'm in charge of archite
 My prefered weapon of choice:
 
 * Centos / RHEL
-* Puppet
+* Puppet / Ansible
 * Docker
 * Rsyslog / Logstash / Kibana
 * Graphite / influxdb / grafana
