@@ -2,10 +2,10 @@
 layout: post
 title: "Setting up the VM's"
 published: true
-tags: virtualbox
+tags: virtualbox centos
 ---
 
-I'm using VirtualBox since it's free, stable and works well with OSX. If I'm deploying my lab from a linux machine, I will most likely use KVM since it is included in the EX200/300 directives.
+I'm using VirtualBox since it's free, stable and works well with OSX. If I'm deploying my lab from a linux machine, I will most likely use KVM since it is included in the EX200/300 directives. I will have to create a separate VM to practice KVM. 
 
 ####VirtualBox Installation
 
@@ -65,18 +65,7 @@ echo "VM $NAME has been successfully created"
 done
 ```
 
-Proceed with Centos install after creating the VMs. 
+Proceed with Centos install after creating the VMs.
 
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="http://octodex.github.com/images/dojocat.jpg" width="200" height="200" />
+----
+Next: Configure proxy server
