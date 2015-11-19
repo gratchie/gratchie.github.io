@@ -5,7 +5,7 @@ published: true
 tags: virtualbox centos
 ---
 
-I'm using VirtualBox since it's free, stable and works well with OSX. If I'm deploying my lab from a linux machine, I will most likely use KVM since it is included in the EX200/300 directives. I will have to create a separate VM to practice KVM. 
+I'm using VirtualBox since it's free, stable and works well with OSX. If I'm deploying my lab from a linux machine, I will most likely use KVM since it is included in the EX200/300 directives. I will have to create a separate VM to practice KVM.
 
 ####VirtualBox Installation
 
@@ -66,6 +66,22 @@ done
 ```
 
 Proceed with Centos install after creating the VMs.
+
+####Enable ssh from Host (hypervisor) to Guest VM
+
+By default, VirtualBox will not allow you to ssh into your VM's from the Host machine when using NAT. We'll have to setup Port Forwarding to open up ssh.
+
+* Find the name of your VM
+
+    `vboxmanage list vms`
+
+* Redirect ssh traffic to port 2222
+
+    `VBoxManage modifyvm "LabX Server" --natpf1 "host2guest-ssh,tcp,,2222,,22"`
+
+* Now you're all set. To ssh to your VM:
+
+    `ssh -p 2222 root@localhost`
 
 ----
 Next: Configure proxy server
