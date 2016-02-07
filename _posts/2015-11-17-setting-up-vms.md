@@ -83,5 +83,21 @@ By default, VirtualBox will not allow you to ssh into your VM's from the Host ma
 
     `ssh -p 2222 root@localhost`
 
+####Install Virtual Box Guest Additions 
+
+* Install needed packages
+
+	`yum -y install gcc* epel-release dkms kernel-devel`
+
+* On your VM top tabs, got to Devices -> Insert Guest Additions CD image 
+
+* Install Linux Additions 
+
+	`mkdir /mnt/cdrom ; mount /dev/cdrom /mnt/cdrom`
+	`/bin/sh /mnt/cdrom/VBoxLinuxAdditions.run`
+
+
+
+
 ----
 Next: Configure proxy server
