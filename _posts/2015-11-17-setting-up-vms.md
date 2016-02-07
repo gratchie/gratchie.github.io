@@ -89,11 +89,13 @@ By default, VirtualBox will not allow you to ssh into your VM's from the Host ma
 
 	`yum -y install gcc* epel-release dkms kernel-devel`
 
-* On your VM top tabs, got to Devices -> Insert Guest Additions CD image 
+* On your VM top tabs, go to Devices -> Insert Guest Additions CD image to mount the installer
+
+* Create some directories
+	`mkdir /mnt/cdrom ; mount /dev/cdrom /mnt/cdrom`
 
 * Install Linux Additions 
 
-	`mkdir /mnt/cdrom ; mount /dev/cdrom /mnt/cdrom`
 	`/bin/sh /mnt/cdrom/VBoxLinuxAdditions.run`
 
 
