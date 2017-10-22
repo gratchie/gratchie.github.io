@@ -6,7 +6,7 @@
 name: gratchie
 
 # Short bio or description (displayed in the header)
-description: Systems Engineering / Devops
+description: Full Stack Engineering 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 
@@ -44,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://gratchie.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
