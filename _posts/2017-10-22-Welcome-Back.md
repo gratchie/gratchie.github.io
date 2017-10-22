@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome"
+title: "Hiatus is over"
 published: true
 ---
 
