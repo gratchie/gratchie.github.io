@@ -2,6 +2,7 @@
 layout: post
 title: "VMware Socal Usercon 2017"
 published: true
+tags: vmware
 ---
 
 I had a chance to attend a local Vmware User in Anaheim last Friday, 10/13/2017. This is a free, one-day event organized by VMUG community. The day was packed with great topics covering Vmware's full stack. One thing I really like about it is that it's a small gathering and I got a chance to talk shop with other VMware architects and admins which to me was very insightful. 
@@ -66,11 +67,11 @@ This is typically short and on the point and it may or may not include actual fa
 Forms a strong foundation of knowledge and understanding. It is interactive, and can provide an in-depth understanding of the technology. This is also the most expensive form of training. 
 
 ####Various Links 
-http://labs.hol.vmware.com
-http://docs.hol.vmware.com
-https://docs.vmware.com
-http://blog.cloud.vmware.com
-http://vmware.com/education
-https://bp.veeam.expert/poc_guide/enhanced_evaluation_example.html
-https://www.veeam.com/virtual-machine-backup-solution-free.html
+(http://labs.hol.vmware.com)
+(http://docs.hol.vmware.com)
+(https://docs.vmware.com)
+(http://blog.cloud.vmware.com)
+(http://vmware.com/education)
+(https://bp.veeam.expert/poc_guide/enhanced_evaluation_example.html)
+)https://www.veeam.com/virtual-machine-backup-solution-free.html)
 
