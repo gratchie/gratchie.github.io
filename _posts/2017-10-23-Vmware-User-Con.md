@@ -7,7 +7,7 @@ tags: vmware
 
 I had a chance to attend a local Vmware User in Anaheim last Friday, 10/13/2017. This is a free, one-day event organized by VMUG community. The day was packed with great topics covering Vmware's full stack. One thing I really like about it is that it's a small gathering and I got a chance to talk shop with other VMware architects and admins which to me was very insightful. 
 
-####Key Takeaways
+#### Key Takeaways
 
 Vmware is not just about VMs anymore. The keynote was about "Software Defined Data Center" and how committed VMware is to this stack. They cover end to end technologies to run every datacenter; from Compute (Vsphere), Networking (NSX), Storage (vSAN) with vRealize Automation to wrap all these core services. VMware is late to the game, but everything is now API Driven. vRA now also supports Terraform so you can build your entire SDDC cluster with Terraform. Exciting times. 
 
@@ -61,12 +61,12 @@ The AWS cluster is running on a Baremetal server in Amazon. It's not a nested se
   *Digital Training Videos / e-learning - This is typically short and on the point and it may or may not include actual facts. Make sure you understand the source of info since the context and examples may not apply to your situation. This is usually perfect for "just in time training"
   *Instructor-Led Training - Forms a strong foundation of knowledge and understanding. It is interactive, and can provide an in-depth understanding of the technology. This is also the most expensive form of training. 
 
-###Various Links 
-[Hands-on Labs](http://labs.hol.vmware.com)
-[Hands-on Labs Documentation(http://docs.hol.vmware.com)
-[Official VMware Doc Site](https://docs.vmware.com)
-[VMware Cloud Docs](http://blog.cloud.vmware.com)
-[VMware training sites](http://vmware.com/education)
-[Veeam POC guide](https://bp.veeam.expert/poc_guide/enhanced_evaluation_example.html)
+### Various Links 
+* [Hands-on Labs](http://labs.hol.vmware.com)
+* [Hands-on Labs Documentation(http://docs.hol.vmware.com)
+* [Official VMware Doc Site](https://docs.vmware.com)
+* [VMware Cloud Docs](http://blog.cloud.vmware.com)
+* [VMware training sites](http://vmware.com/education)
+* [Veeam POC guide](https://bp.veeam.expert/poc_guide/enhanced_evaluation_example.html)
 [Free Veeam Products](https://www.veeam.com/virtual-machine-backup-solution-free.html)
 
