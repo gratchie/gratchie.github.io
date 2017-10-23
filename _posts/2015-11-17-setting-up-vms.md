@@ -7,7 +7,7 @@ tags: virtualbox centos
 
 I'm using VirtualBox since it's free, stable and works well with OSX. If I'm deploying my lab from a linux machine, I will most likely use KVM since it is included in the EX200/300 directives. I will have to create a separate VM to practice KVM.
 
-####VirtualBox Installation
+#### VirtualBox Installation
 
 * Install [VirtualBox](http://download.virtualbox.org/virtualbox/5.0.10/VirtualBox-5.0.10-104061-OSX.dmg)
 
@@ -23,7 +23,7 @@ I'm using VirtualBox since it's free, stable and works well with OSX. If I'm dep
 
 Now we are ready to create the VMs.
 
-####Creating the VM's
+#### Creating the VM's
 
 I use this script to create VM's from command line. This is for Centos 7.1 with 8GB disk and 512MB RAM. Networking is also configured with Host-Only nic.
 
@@ -67,7 +67,7 @@ done
 
 Proceed with Centos install after creating the VMs.
 
-####Enable ssh from Host (hypervisor) to Guest VM
+#### Enable ssh from Host (hypervisor) to Guest VM
 
 By default, VirtualBox will not allow you to ssh into your VM's from the Host machine when using NAT. We'll have to setup Port Forwarding to open up ssh.
 
@@ -83,7 +83,7 @@ By default, VirtualBox will not allow you to ssh into your VM's from the Host ma
 
     `ssh -p 2222 root@localhost`
 
-####Install Virtual Box Guest Additions 
+#### Install Virtual Box Guest Additions 
 
 * Install needed packages
 
