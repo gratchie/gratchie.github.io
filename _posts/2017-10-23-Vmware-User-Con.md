@@ -56,9 +56,9 @@ The AWS cluster is running on a Baremetal server in Amazon. It's not a nested se
   * Speed of Data Recovery 
 
 **Types of Learning** - There was another talk about types of Learning. It was presented by the VP of VMware training services but I still found his talk interesting. 
-  *"On the Job" Training - This can be stressful and you'll have to rely on other "experts" to help you out. You'll have limited time to understand the tech and is prone to mistakes and development of less than ideal best practices
-  *Digital Training Videos / e-learning - This is typically short and on the point and it may or may not include actual facts. Make sure you understand the source of info since the context and examples may not apply to your situation. This is usually perfect for "just in time training"
-  *Instructor-Led Training - Forms a strong foundation of knowledge and understanding. It is interactive, and can provide an in-depth understanding of the technology. This is also the most expensive form of training. 
+  * "On the Job" Training - This can be stressful and you'll have to rely on other "experts" to help you out. You'll have limited time to understand the tech and is prone to mistakes and development of less than ideal best practices
+  * Digital Training Videos / e-learning - This is typically short and on the point and it may or may not include actual facts. Make sure you understand the source of info since the context and examples may not apply to your situation. This is usually perfect for "just in time training"
+  * Instructor-Led Training - Forms a strong foundation of knowledge and understanding. It is interactive, and can provide an in-depth understanding of the technology. This is also the most expensive form of training. 
 
 ### Various Links 
 * [Hands-on Labs](http://labs.hol.vmware.com)
@@ -68,4 +68,3 @@ The AWS cluster is running on a Baremetal server in Amazon. It's not a nested se
 * [VMware training sites](http://vmware.com/education)
 * [Veeam POC guide](https://bp.veeam.expert/poc_guide/enhanced_evaluation_example.html)
 * [Free Veeam Products](https://www.veeam.com/virtual-machine-backup-solution-free.html)
-
