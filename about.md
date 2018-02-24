@@ -10,8 +10,6 @@ __Grace Rante Thompson__
 * Github: http://github.com/gratchie  
 * Twitter: @graziee
 
-__About__
-
 Full stack engineer with 15+ years experience in high performance computing environments. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment.
 
 I am a strong advocate of Automation. Doing the right thing, not the easy thing, while focusing on long term impact vs. short term gain.
