@@ -10,9 +10,11 @@ __Grace Rante Thompson__
 * Twitter: @graziee
 
 
-Currently working at Media and Entertainment studio in Los Angeles. Taking care of architecture, deployment and maintenance of hundreds of systems infrastructure needed to render cinematic visual effects, at scale. 
+> Currently working at Media and Entertainment studio in Los Angeles. Taking care of architecture, deployment  and maintenance of hundreds of systems infrastructure needed to render cinematic visual effects, at scale. 
 
-Full stack engineer with 15+ years experience in high performance computing environments. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment. Automation is the way to go. 
+> Full stack engineer with 15+ years experience in high performance computing environments. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment. 
+
+> Strong advocate Automation. Doing the right thing, not the easy thing and focusing on long term impact vs. short term gain.
 
 __CORE TECHNICAL PROFICIENCIES__
 
