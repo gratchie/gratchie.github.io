@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 __Grace Rante Thompson__
+* LinkedIn: http://www.linkedin.com/in/gracerantethompson
 * Website: http://gracie.engineering 
 * Github: http://github.com/gratchie  
 * Twitter: @graziee
@@ -33,9 +34,9 @@ __CORE TECHNICAL PROFICIENCIES__
 __PROFESSIONAL EXPERIENCE__
 					
 __1.) Disneytoon Studios - Glendale, California__
-     Animation Studio
-     Senior Systems Engineer 
-     (April 2016 to present) 
+     - Animation Studio
+     - Senior Systems Engineer 
+     - (April 2016 to present) 
 
 * Design, build and maintain, cross-disciplined infrastructure across all major operating systems - Linux, OSX and Windows
 * Manages production and core systems, as well as high performance storage and backup infrastructure of the studio
@@ -48,9 +49,9 @@ __1.) Disneytoon Studios - Glendale, California__
 
 
 __2.) Digital Domain 3.0 - Los Angeles, California__
-     Cinematic, Visual Effects Studio  
-     Senior Systems Engineer 
-     (October 2008 to April 2016)	
+     - Cinematic, Visual Effects Studio  
+     - Senior Systems Engineer 
+     - (October 2008 to April 2016)	
 
 * Primarily in-charge of architecting, building and maintenance of Linux Desktop, Production servers and Render systems infrastructure for Digital Domain group of companies
 * Developed diskless network boot image using Onesis and Avere cache systems for render farm consisting of ~1,500 nodes (14,000 cpu cores) between onsite, co-location and remote facilities.
@@ -67,9 +68,9 @@ Engineered render systems with Vmware ESXi to be used for cloud computing render
 * Systems and CG pipeline integration.
 						
 __3.) Lucasfilm Animation Singapore__ 
-     A Lucasfilm Ltd. Division working on films, television series and games 
-     Linux Administrator
-    (October 2005 to September 2008)
+     - A Lucasfilm Ltd. Division working on films, television series and games 
+     - Linux Administrator
+     - (October 2005 to September 2008)
 								
 * Design, implement and administer the startup studio system facility, working closely with the system engineers from the remote main office in San Francisco, Lucasfilm Ltd. From data center infrastructure, storage, render, backend/authentication servers to desktop (Linux/windows) and software pipeline setup.					
 * Administration of large-scale multiprocessing hardware cluster and software systems.
@@ -80,9 +81,9 @@ __3.) Lucasfilm Animation Singapore__
 
 
 __4.) Digital Eyecandy Studios__
-     3D animation studio producing full-length feature films 
-     System Administrator 
-     (March 2003 to October 2005)
+     - 3D animation studio producing full-length feature films 
+     - System Administrator 
+     - (March 2003 to October 2005)
 								
 * Part of a four man team to design, plan and implement a Data Center with over 200 servers and workstations for a 3D studio with Terabyte level of storage. From electrical, structured cabling, telephone lines cabling, HVAC and LAN/WAN design.
 * Assembly, support and administration of windows/linux/osx 3D workstations and servers	
