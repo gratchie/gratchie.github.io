@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 __Grace Rante Thompson__
-Website: http://gracie.engineering 
-Github: http://github.com/gratchie  
-Twitter: @graziee
+* Website: http://gracie.engineering 
+* Github: http://github.com/gratchie  
+* Twitter: @graziee
 
 
 Currently working at Media and Entertainment studio in Los Angeles. Taking care of architecture, deployment and maintenance of hundreds of systems infrastructure needed to render cinematic visual effects, at scale. 
@@ -26,7 +26,7 @@ __Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
 __Various Technology Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
 						
 
-PROFESSIONAL EXPERIENCE
+__PROFESSIONAL EXPERIENCE__
 					
 __1.) Disneytoon Studios - Glendale, California__
      Animation Studio
