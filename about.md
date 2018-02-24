@@ -9,26 +9,25 @@ __Grace Rante Thompson__
 * Github: http://github.com/gratchie  
 * Twitter: @graziee
 
+__About__
 
-> Currently working at Media and Entertainment studio in Los Angeles. 
-> Taking care of architecture, deployment  and maintenance of hundreds of systems infrastructure needed to render cinematic visual effects, at scale. 
->
-> Full stack engineer with 15+ years experience in high performance computing environments. 
-> Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment. 
->
-> Strong advocate of Automation. 
-> Doing the right thing, not the easy thing and focusing on long term impact vs. short term gain.
+Full stack engineer with 15+ years experience in high performance computing environments. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment.
+
+Currently working at Media and Entertainment studio in Los Angeles. 
+Taking care of architecture, deployment  and maintenance of hundreds of systems infrastructure needed to render cinematic visual effects, at scale. 
+
+I am a strong advocate of Automation. Doing the right thing, not the easy thing and focusing on long term impact vs. short term gain.
 
 __CORE TECHNICAL PROFICIENCIES__
 
-__Automation:__ Puppet, Ansible, Terraform  
-__Infrastructure Provisioning:__ Redhat Satellite, MDT/WDS, Munki, RHEV, Vsphere 6.5 Enterprise Suite 
-__Backup and Storage:__ Isilon, Netapp, Netbackup, Crashplan Pro, Cohesity, S3, Ceph
-__Cloud:__ AWS, GCP, Google Apps, Office 365 
-__Development:__ Python, Powershell, REST, Shell
-__Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate
-__Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
-__Various Technology Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
+* __Automation:__ Puppet, Ansible, Terraform  
+* __Infrastructure Provisioning:__ Redhat Satellite, MDT/WDS, Munki, RHEV, Vsphere 6.5 Enterprise Suite 
+* __Backup and Storage:__ Isilon, Netapp, Netbackup, Crashplan Pro, Cohesity, S3, Ceph
+* __Cloud:__ AWS, GCP, Google Apps, Office 365 
+* __Development:__ Python, Powershell, REST, Shell
+* __Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate
+* __Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
+* __Various Technology Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
 						
 
 __PROFESSIONAL EXPERIENCE__
