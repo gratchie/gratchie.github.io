@@ -37,7 +37,9 @@ __1.) Disneytoon Studios - Glendale, California__
 
 * Design, build and maintain, cross-disciplined infrastructure across all major operating systems - Linux, OSX and Windows
 * Manages production and core systems, as well as high performance storage and backup infrastructure of the studio
-* Completed various, multifaceted projects - Facility RHEL 6 to 7 upgrade, Facility OSX upgrade, Vsphere Enterprise 6.5 infrastructure buildout, Windows infrastructure buildout, Jira/Confluence/Service Desk Rollout, VPN Deployment, Aspera asset transfer pipeline
+* Completed various, multifaceted projects - Facility RHEL 6 to 7 upgrade, Facility OSX upgrade, Vsphere Enterprise 6.5 infrastructure buildout, Windows infrastructure buildout, VPN Deployment, Aspera asset transfer pipeline, Gitlab CI/CD upgrade and deployment
+* Built and deployed Jira Service Desk as the defacto ticketing system for the studio 
+* Built and deployed Jira and Confluence as a Project Management tool and Documentation po
 * Mentor system engineers and help them navigate the pipeline and pace of this industry. 
 * Lead the systems team in adapting Kanban methodology. A flexible agile method focused on helping interrupt driven teams with uneven demand times and specialized tasks requiring concentrated focus.
 * Identified systems risks and analyze its impact in order to create a more thoughtful, data driven, 5 year technology roadmap
