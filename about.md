@@ -10,9 +10,7 @@ __Grace Rante Thompson__
 * Github: http://github.com/gratchie  
 * Twitter: @graziee
 
-Full stack engineer with 15+ years experience in high performance computing environments. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment.
-
-I am a strong advocate of Automation. Doing the right thing, not the easy thing, while focusing on long term impact vs. short term gain.
+Full stack engineer with 15+ years experience in high performance computing environments, at scale. Employs Devops, Automation and Agile methodologies to help design, build and run applications and related infrastructure. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment.
 
 __CORE TECHNICAL PROFICIENCIES__
 
@@ -23,7 +21,7 @@ __CORE TECHNICAL PROFICIENCIES__
 * __Development:__ Python, Powershell, REST, Shell
 * __Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate
 * __Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
-* __Various Technology Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
+* __Devops Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
 						
 
 __PROFESSIONAL EXPERIENCE__
@@ -33,9 +31,11 @@ __1.) Disneytoon Studios - Glendale, California__
      - Senior Systems Engineer 
      - (April 2016 to present) 
 
-* Design, build and maintain, cross-disciplined infrastructure across all major operating systems - Linux, OSX and Windows
-* Manages production and core systems, as well as high performance storage and backup infrastructure of the studio
-* Completed various, multifaceted projects - Facility RHEL 6 to 7 upgrade, Facility OSX upgrade, Vsphere Enterprise 6.5 infrastructure buildout, Windows infrastructure buildout, VPN Deployment, Aspera asset transfer pipeline, Gitlab CI/CD upgrade and deployment
+* Design, build and maintain, cross-disciplined systems across all major operating systems, leveraging various devops tools with focus on automation
+* Manages application infrastructure and core data center stack, as well as high performance multi-petabyte storage and backup infrastructure of the facility
+* Completed various, multifaceted projects - Facility OS upgrades, Vsphere Enterprise 6.5 cluster  buildout, Windows 10 infrastructure buildout, VPN Deployment, Aspera asset transfer pipeline
+* Built and Deployed Gitlab CI/CD platform and pipeline processes 
+* Lead the systems team in adapting Kanban methodology. A flexible agile method focused on helping interrupt driven teams with uneven demand times and specialized tasks requiring concentrated focus.
 * Built and deployed Jira Service Desk as the defacto ticketing system for the studio 
 * Built and deployed Jira and Confluence as a Project Management tool and Documentation po
 * Mentor system engineers and help them navigate the pipeline and pace of this industry. 
