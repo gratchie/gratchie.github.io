@@ -16,14 +16,16 @@ Specialties: Infrastructure Architect, Automation at scale, High-Performance Com
 
 __CORE TECHNICAL PROFICIENCIES__
 
-* __Automation:__ Puppet, Ansible, Terraform  
-* __Infrastructure Provisioning:__ Redhat Satellite, MDT/WDS, Munki, RHEV, Vsphere 6.5 Enterprise Suite 
+* __Monitoring and Automation:__ Puppet, Ansible, Terraform, Datadog, Graylog, Grafana 
+* __Infrastructure Provisioning:__ Redhat Satellite, MDT/WDS, Munki, RHEV, Vsphere 6.5 Enterprise Suite, Packer, Boxster
 * __Backup and Storage:__ Isilon, Netapp, Netbackup, Crashplan Pro, Cohesity, S3, Ceph
-* __Cloud:__ AWS, GCP, Google Apps, Office 365 
+* __Cloud Administration:__ AWS, GCP, Google Apps, Office 365 
 * __Development:__ Python, Powershell, REST, Shell
-* __Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate
+* __Web and Databases:__ Apache, Nginx, Mongodb, Mysql, Postgresql, RDS
+* __Networking:__ Cisco MDS 7/9000, Palo Alto, Vsphere SDN
+* __Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate, SAML, Oauth2
 * __Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
-* __Devops Tools:__ Docker, Jenkins, Hashicorp suite, Boxster, Graylog, Netbox, Grafana, Gitlab etc
+* __Devops Tools:__ Docker, Jenkins, Hashicorp suite, Netbox, Gitlab CI/CD etc
 						
 
 __PROFESSIONAL EXPERIENCE__
@@ -35,7 +37,8 @@ __1.) Disneytoon Studios - Glendale, California__
 
 * Design, build and maintain, cross-disciplined systems across all major operating systems, leveraging various devops tools with focus on automation
 * Manages application infrastructure and core data center stack, as well as high performance multi-petabyte storage and backup infrastructure of the facility
-* Completed various, multifaceted projects - Facility OS upgrades, Vsphere Enterprise 6.5 cluster  buildout, Windows 10 infrastructure buildout, VPN Deployment, Aspera asset transfer pipeline
+* Completed various, multifaceted projects - Facility OS upgrades, Vsphere Enterprise 6.5 cluster  buildout, Windows 10 infrastructure buildout, VPN Deployment, Aspera asset transfer pipeline, Advanced APM Monitoring, AWS infrastructure design
+* Design and Implement automation tools like Puppet, Ansible and Terraform for infrastructure systems with focus on IaC, Security and Compliance
 * Built and Deployed Gitlab CI/CD platform and pipeline processes 
 * Lead the systems team in adapting Kanban methodology. A flexible agile method focused on helping interrupt driven teams with uneven demand times and specialized tasks requiring concentrated focus.
 * Built and deployed Jira Service Desk as the defacto ticketing system for the studio 
