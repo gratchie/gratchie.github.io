@@ -12,6 +12,8 @@ __Grace Rante Thompson__
 
 Full stack engineer with 15+ years experience in high performance computing environments, at scale. Employs Devops, Automation and Agile methodologies to help design, build and run applications and related infrastructure. Fast learner, detail oriented, consistently delivering solutions and accustomed to the needs of a dynamic and fast paced production environment.
 
+Specialties: Infrastructure Architect, Automation at scale, High-Performance Computing, SRE, Tech Lead, Infrastructure as Code, Start-up buildout
+
 __CORE TECHNICAL PROFICIENCIES__
 
 * __Automation:__ Puppet, Ansible, Terraform  
@@ -91,8 +93,8 @@ __4.) Digital Eyecandy Studios__
 							
 	
 __EDUCATION__ 
-Polytechnic University of the Philippines (Graduate March 2001)					
-Bachelor of Science in Electronics and Communications Engineering
+* Polytechnic University of the Philippines (Graduate March 2001)					
+* Bachelor of Science in Electronics and Communications Engineering
 
 __TRAINING__
 * AWS Solutions Architech 2018
