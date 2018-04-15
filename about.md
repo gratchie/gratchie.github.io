@@ -93,6 +93,9 @@ __4.) Digital Eyecandy Studios__
 __EDUCATION__ 
 Polytechnic University of the Philippines (Graduate March 2001)					
 Bachelor of Science in Electronics and Communications Engineering
+
+__TRAINING__
+* AWS Solutions Architech 2018
 						
 __Systems Engineering Film Credits:__ Real Steel, Percy Jackson, Hoodwinked, Star Wars - The clone wars (film and tv series), Tron, Deadpool, Enders Game, X-Men, Maleficent etc 
 
