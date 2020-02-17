@@ -20,7 +20,7 @@ Kubernetes, Cloud Native Infrastructure, Security, Observability, Infrastructure
 
 __PROFESSIONAL EXPERIENCE__
 				
-__Current: The Walt Disney Studios__
+__Current Role: The Walt Disney Studios__
   * Lead SRE - Production Technology Architecture
 
 __1.) Disneytoon Studios - Glendale, California__
@@ -80,20 +80,13 @@ __4.) Digital Eyecandy Studios__
      - System Administrator 
      - (March 2003 to October 2005)
 								
-* Part of a four man team to design, plan and implement a Data Center with over 200 servers and workstations for a 3D studio with Terabyte level of storage. From electrical, structured cabling, telephone lines cabling, HVAC and LAN/WAN design.
-* Assembly, support and administration of windows/linux/osx 3D workstations and servers	
-* Setup and support of various DCC applications
-* Performed backup, archiving, and restoration of data using amanda with ultrium tapes and Dell power vault tape library
-* Designed a content and asset management page for production
-* Design, implementation and maintenance of various intranet/internet services (firewall, mail, dhcp, dns, wireless etc)
-							
 	
 __EDUCATION__ 
 * Polytechnic University of the Philippines (Graduate March 2001)					
 * Bachelor of Science in Electronics and Communications Engineering
 
-__TRAINING__
-* AWS Solutions Architech 2018
+__CERTIFICATE__
+* AWS Solutions Architech 2019
 						
 __Systems Engineering Film Credits:__ Real Steel, Percy Jackson, Hoodwinked, Star Wars - The clone wars (film and tv series), Tron, Deadpool, Enders Game, X-Men, Maleficent etc 
 
