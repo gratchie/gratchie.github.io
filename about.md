@@ -16,24 +16,17 @@ Specialties: Infrastructure Architect, Automation at scale, High-Performance Com
 
 __CORE TECHNICAL PROFICIENCIES__
 
-* __Monitoring and Automation:__ Puppet, Ansible, Terraform, Datadog, Graylog, Grafana 
-* __Infrastructure Provisioning:__ Redhat Satellite, MDT/WDS, Munki, RHEV, Vsphere 6.5 Enterprise Suite, Packer, Boxster
-* __Backup and Storage:__ Isilon, Netapp, Netbackup, Crashplan Pro, Cohesity, S3, Ceph
-* __Cloud Administration:__ AWS, GCP, Google Apps, Office 365 
-* __Development:__ Python, Powershell, REST, Shell
-* __Web and Databases:__ Apache, Nginx, Mongodb, Mysql, Postgresql, RDS
-* __Networking:__ Cisco MDS 7/9000, Palo Alto, Vsphere SDN
-* __Core Services:__ Redhat Identity Manager, Active Directory, Ping Identity, DUO, Cisco Mailgate, SAML, Oauth2
-* __Latest Operating Systems:__ RHEL 7.x, OSX Sierra/High Sierra, Windows 10/2016
-* __Devops Tools:__ Docker, Jenkins, Hashicorp suite, Netbox, Gitlab CI/CD etc
-						
+Kubernetes, Cloud Native Infrastructure, Security, Observability, Infrastructure as a Code
 
 __PROFESSIONAL EXPERIENCE__
-					
+				
+__Current: The Walt Disney Studios__
+  * Lead SRE - Production Technology Architecture
+
 __1.) Disneytoon Studios - Glendale, California__
      - Animation Studio
      - Senior Systems Engineer 
-     - (April 2016 to present) 
+     - (April 2016 to April 2018) 
 
 * Design, build and maintain, cross-disciplined systems across all major operating systems, leveraging various devops tools with focus on automation
 * Manages application infrastructure and core data center stack, as well as high performance multi-petabyte storage and backup infrastructure of the facility
@@ -43,7 +36,7 @@ __1.) Disneytoon Studios - Glendale, California__
 * Lead the systems team in adapting Kanban methodology. A flexible agile method focused on helping interrupt driven teams with uneven demand times and specialized tasks requiring concentrated focus.
 * Built and deployed Jira Service Desk as the defacto ticketing system for the studio 
 * Built and deployed Jira and Confluence as a Project Management tool and Documentation po
-* Mentor system engineers and help them navigate the pipeline and pace of this industry. 
+* Mentor system enginers and help them navigate the pipeline and pace of this industry. 
 * Lead the systems team in adapting Kanban methodology. A flexible agile method focused on helping interrupt driven teams with uneven demand times and specialized tasks requiring concentrated focus.
 * Identified systems risks and analyze its impact in order to create a more thoughtful, data driven, 5 year technology roadmap
 * Architect an IT Business Continuity and Disaster Recovery plan for the studio
