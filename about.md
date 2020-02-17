@@ -66,14 +66,6 @@ __3.) Lucasfilm Animation Singapore__
      - A Lucasfilm Ltd. Division working on films, television series and games 
      - Linux Administrator
      - (October 2005 to September 2008)
-								
-* Design, implement and administer the startup studio system facility, working closely with the system engineers from the remote main office in San Francisco, Lucasfilm Ltd. From data center infrastructure, storage, render, backend/authentication servers to desktop (Linux/windows) and software pipeline setup.					
-* Administration of large-scale multiprocessing hardware cluster and software systems.
-* Multi-Terabyte storage system administration (~80TB)
-* NAS/SAN system design and implementation (Netapp, Brocade, Sun Storagetek)
-* Backup system design and administration (Symantec Netbackup, Adic I2k, Data domain) 
-* CG production backend servers, desktop, render and pipeline system design and engineering
-
 
 __4.) Digital Eyecandy Studios__
      - 3D animation studio producing full-length feature films 
